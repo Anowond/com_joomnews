@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Blog - Joomla.it supporto Italiano</title>
+		<description><![CDATA[Joomla.it - Il sito della Comunità Italiana di Joomla, forum supporto italiano al CMS e template per Joomla.]]></description>
+		<link>https://www.joomla.it/blog.html</link>
+		<lastBuildDate>Tue, 26 Mar 2024 15:25:48 +0100</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.joomla.it/blog.feed?type=rss"/>
+		<language>it-it</language>
+		<managingEditor>info@joomla.it (Joomla.it Sito di supporto Italiano)</managingEditor>
+		<item>
+			<title>Case Study: Perché Host.it ha scelto Joomla 4 per il proprio sito web</title>
+			<link>https://www.joomla.it/blog/9105-case-study-perche-host-it-ha-scelto-joomla-4-per-il-proprio-sito-web.html</link>
+			<guid isPermaLink="true">https://www.joomla.it/blog/9105-case-study-perche-host-it-ha-scelto-joomla-4-per-il-proprio-sito-web.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.it/images/2021/January-Hostit.jpg" /></p><p>Nel corso del mese di dicembre 2021, Host.it, tra i principali hosting service provider in Italia e da sempre partner di Joomla.it ha pubblicato il proprio nuovo sito web aziendale, realizzato in Joomla 4. Analizziamo più nel dettaglio la loro esperienza con Joomla 4, parlando con il CEO, Marco Mangione.</p>
+]]></description>
+			<author>info@joomla.it (Redazione)</author>
+			<category>Blog</category>
+			<pubDate>Sun, 30 Jan 2022 10:03:29 +0100</pubDate>
+		</item>
+		<item>
+			<title>Gestire concorsi con Joomla - II° parte</title>
+			<link>https://www.joomla.it/blog/9058-gestire-concorsi-con-joomla-ii-parte.html</link>
+			<guid isPermaLink="true">https://www.joomla.it/blog/9058-gestire-concorsi-con-joomla-ii-parte.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.it/images/immagini/templates/jit-cover-extensions.png" /></p><p>Eccoci alla seconda parte del nostro tutorial su come organizzare un concorso fotografico e video in un sito web realizzato con Joomla. Nella prima parte abbiamo visto come installare e configurare il componente ed avevamo inserito le schede del concorso. In questa seconda parte vedremo come lanciare il concorso e gestirlo.</p>
+]]></description>
+			<author>frascan@gmail.com (Francesco Scandale (FraScan))</author>
+			<category>Blog</category>
+			<pubDate>Sun, 12 Jul 2020 09:57:41 +0200</pubDate>
+		</item>
+		<item>
+			<title>Gestire concorsi con Joomla - I° parte</title>
+			<link>https://www.joomla.it/blog/9057-gestire-concorsi-con-joomla-i-parte.html</link>
+			<guid isPermaLink="true">https://www.joomla.it/blog/9057-gestire-concorsi-con-joomla-i-parte.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.it/images/immagini/templates/jit-cover-extensions.png" /></p><p>Nel presente tutorial, grazie ad alcuni esempi pratici, vedremo come organizzare un concorso fotografico e video in un sito web realizzato con Joomla. Per realizzare il concorso utilizzeremo l’estensione NorrCompetition della NorrNext di cui analizzeremo le funzionalità e la configurazione per la messa a punto del nostro concorso.</p>
+]]></description>
+			<author>frascan@gmail.com (Francesco Scandale (FraScan))</author>
+			<category>Blog</category>
+			<pubDate>Tue, 12 May 2020 09:30:26 +0200</pubDate>
+		</item>
+		<item>
+			<title>Prepariamo i nostri siti per lo 'Speedgeddon' di Google!</title>
+			<link>https://www.joomla.it/blog/9050-prepariamo-i-nostri-siti-per-lo-speedgeddon-di-google.html</link>
+			<guid isPermaLink="true">https://www.joomla.it/blog/9050-prepariamo-i-nostri-siti-per-lo-speedgeddon-di-google.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.it/images/immagini/templates/jit-cover-sicurezza.png" /></p><p>Già nel 2015 avevamo assistito all'importante passo in avanti fatto da Google che dal famoso 21 Aprile aveva ufficialmente premiato e inserito come fattore di ranking la compatibilità dei siti con i dispositivi mobili, passaggio che era stato ribattezzato '<strong>Mobilegeddon</strong>' vista la vera e propria rivoluzione che i webmaster affrontarono per aggiornare i propri siti ad un layout responsive.</p>
+]]></description>
+			<author>marcobiagioni76@gmail.com (Marco Biagioni)</author>
+			<category>Blog</category>
+			<pubDate>Thu, 09 Jan 2020 12:53:58 +0100</pubDate>
+		</item>
+		<item>
+			<title>Utenti Joomla eCommerce: Siete pronti per SCA?</title>
+			<link>https://www.joomla.it/blog/9043-utenti-joomla-ecommerce-siete-pronti-per-sca.html</link>
+			<guid isPermaLink="true">https://www.joomla.it/blog/9043-utenti-joomla-ecommerce-siete-pronti-per-sca.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.it/images/immagini/templates/jit-cover-compliance.png" /></p><p>L'anno scorso i proprietari di siti Web hanno dovuto affrontare le nuove leggi europee sulla privacy note come GDPR. Quest'anno ci sono nuove regole europee che coinvolgono l'eCommerce.</p>
+]]></description>
+			<author>praticheauto@gmail.com (Pasquale)</author>
+			<category>Blog</category>
+			<pubDate>Tue, 01 Oct 2019 16:55:52 +0200</pubDate>
+		</item>
+		<item>
+			<title>Come usare il plugin custom canonical correttamente</title>
+			<link>https://www.joomla.it/blog/9032-come-usare-il-plugin-custom-canonical-correttamente.html</link>
+			<guid isPermaLink="true">https://www.joomla.it/blog/9032-come-usare-il-plugin-custom-canonical-correttamente.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.it/images/immagini/templates/jit-cover-extensions.png" /></p><h2>Tag Canonical di Joomla, perché e come inserirlo</h2>
+<p>Ti sei affidato ad un servizio di hosting Joomla veloce ed ora vorresti saperne di più in merito all’ottimizzazione del tuo sito?</p>
+]]></description>
+			<author>ivan@supporthost.net (Ivan M)</author>
+			<category>Blog</category>
+			<pubDate>Mon, 12 Aug 2019 08:07:45 +0200</pubDate>
+		</item>
+		<item>
+			<title>Buone pratiche per realizzare un sito Joomla - I° parte</title>
+			<link>https://www.joomla.it/blog/9041-buone-pratiche-per-realizzare-un-sito-joomla-i-parte.html</link>
+			<guid isPermaLink="true">https://www.joomla.it/blog/9041-buone-pratiche-per-realizzare-un-sito-joomla-i-parte.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.it/images/2019/Foodies-Vocabular_20190903-130925_1.png" /></p><p>Recentemente ci ha contattato un cliente per la realizzazione di una applicazione. Quello che doveva essere un lavoro abbastanza veloce si è trasformato in un progetto di una certa difficoltà. Il motivo? Hanno implementato almeno una mezza dozzina di componenti personalizzati quando potevano essere più che sufficienti gli articoli.</p>
+]]></description>
+			<author>frascan@gmail.com (Francesco Scandale (FraScan))</author>
+			<category>Blog</category>
+			<pubDate>Fri, 20 Sep 2019 10:25:23 +0200</pubDate>
+		</item>
+		<item>
+			<title>JoomlaDay 2019: anteprima</title>
+			<link>https://www.joomla.it/blog/9040-joomladay-2019-anteprima.html</link>
+			<guid isPermaLink="true">https://www.joomla.it/blog/9040-joomladay-2019-anteprima.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.it/images/Cartolina_generale_JoomlaDay_2019.png" /></p><p>L'edizione del <strong>JoomlaDay 2019</strong> è alle porte e quest'anno i numeri da commentare sono davvero interessanti.</p>
+<p>Il 2019 ci porta alla <strong>dodicesima edizione</strong> dell'evento più importante per la community di Joomla e non si tratta dell'unica cifra importante.</p>
+]]></description>
+			<author>daniela@webimmagine.it (Daniela De Prisco)</author>
+			<category>Blog</category>
+			<pubDate>Tue, 17 Sep 2019 06:03:20 +0200</pubDate>
+		</item>
+		<item>
+			<title>Override Modulo Statistiche</title>
+			<link>https://www.joomla.it/blog/9039-override-modulo-statistiche.html</link>
+			<guid isPermaLink="true">https://www.joomla.it/blog/9039-override-modulo-statistiche.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.it/images/jit-override.jpg" /></p><p>Di override se ne è parlato moltissime volte e la maggior parte degli utenti di Joomla sa di cosa si tratta per cui mi limiterò ad una sommaria e breve descrizione per poi passare all’illustrazione pratica modificando uno specifico modulo.</p>
+]]></description>
+			<author>frascan@gmail.com (Francesco Scandale (FraScan))</author>
+			<category>Blog</category>
+			<pubDate>Fri, 06 Sep 2019 08:42:08 +0200</pubDate>
+		</item>
+		<item>
+			<title>Case Study - I siti tematici dell'Università di Perugia</title>
+			<link>https://www.joomla.it/blog/9036-case-study-i-siti-tematici-dell-universita-di-perugia.html</link>
+			<guid isPermaLink="true">https://www.joomla.it/blog/9036-case-study-i-siti-tematici-dell-universita-di-perugia.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.it/images/2019/jit-unipg-casestudy.jpg" /></p><p>Come l’esperienza maturata con Joomla! sul Portale web istituzionale è stata estesa ai siti web dei Dipartimenti, dei Centri e delle iniziative dell’Ateneo.</p>
+]]></description>
+			<author>info@joomla.it (Team UniPG)</author>
+			<category>Blog</category>
+			<pubDate>Thu, 22 Aug 2019 08:40:23 +0200</pubDate>
+		</item>
+		<item>
+			<title>Case Study - Il sito dell'Università degli Studi di Perugia</title>
+			<link>https://www.joomla.it/blog/9035-case-study-il-sito-dell-universita-degli-studi-di-perugia.html</link>
+			<guid isPermaLink="true">https://www.joomla.it/blog/9035-case-study-il-sito-dell-universita-degli-studi-di-perugia.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.it/images/2019/jit-unipg-casestudy.jpg" /></p><p>Come si è evoluto il Portale dell’Ateneo perugino www.unipg.it, strumento di comunicazione e divulgazione delle informazioni secondo una logica multicanale, in linea con la normativa e con gli standard di accessibilità.</p>
+]]></description>
+			<author>info@joomla.it (Team UniPG)</author>
+			<category>Blog</category>
+			<pubDate>Thu, 22 Aug 2019 08:21:31 +0200</pubDate>
+		</item>
+	</channel>
+</rss>

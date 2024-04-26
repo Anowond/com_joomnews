@@ -1,0 +1,24 @@
+CREATE TABLE IF NOT EXISTS `#__joomnews_feeds` (
+    id BIGINT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    slug VARCHAR(255) NOT NULL,
+    url VARCHAR(255) NOT NULL,
+    owner BIGINT,
+    last_updated DATETIME DEFAULT CURRENT_TIMESTAMP,
+    nb_items INT NOT NULL,
+    category INT,
+    comment VARCHAR(255),
+    language VARCHAR(5)
+);
+
+CREATE TABLE IF NOT EXISTS `#__joomnews_feeds_items`(
+    id BIGINT UNSIGNED NOT NULL PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(255) NOT NULL,
+    slug VARCHAR(255) NOT NULL,
+    url VARCHAR(255) NOT NULL,
+    thumbnail VARCHAR(255),
+    description VARCHAR(255),
+    date DATETIME DEFAULT CURRENT_TIMESTAMP,
+    id_feeds BIGINT NOT NULL,
+    keywords VARCHAR(100) 
+);

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form>
+    <field 
+        name="name"
+        type="text"
+        label="COM_JOOMNEWS_ITEM_NAME"
+        required="true"
+    />
+    <field 
+        name="id"
+        type="hidden"
+        label="COM_JOOMNEWS_ITEM_ID"
+    />
+    <field 
+        name="slug"
+        type="text"
+        label="COM_JOOMNEWS_ITEM_SLUG"
+    />
+    <field 
+        name="url"
+        type="text"
+        label="COM_JOOMNEWS_ITEM_URL"
+        required="true"
+    />
+    <field 
+        name="thumbnail"
+        type="accessiblemedia"
+        directory="images"
+        preview="true"
+        label="COM_JOOMNEWS_ITEM_THUMBNAIL"
+    />
+    <field
+        name="description"
+        type="textarea"
+        rows="5"
+        cols="30"
+        label="COM_JOOMNEWS_ITEM_DESCRIPTION"
+        required="false"
+    />
+    <field 
+        name="feed_id"
+        type="sql"
+        label="COM_JOOMNEWS_ITEM_FEED_ID"
+        sql_select="a.*"
+        sql_from="#__joomnews_feeds AS a"
+        sql_group="name"
+        sql_order="a.id ASC"
+        key_field="id"
+        value_field="name"
+        required="true"
+    />
+</form>

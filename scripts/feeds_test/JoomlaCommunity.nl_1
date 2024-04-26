@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Blogs</title>
+		<description><![CDATA[]]></description>
+		<link>https://www.joomlacommunity.nl/blogs</link>
+		<lastBuildDate>Tue, 26 Mar 2024 15:26:43 +0100</lastBuildDate>
+		<generator>MYOB</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.joomlacommunity.nl/blogs?format=feed&amp;type=rss"/>
+		<language>nl-nl</language>
+		<item>
+			<title>Joomla helpschermen in Joomla 4</title>
+			<link>https://www.joomlacommunity.nl/blogs/joomla-helpschermen-in-joomla-4</link>
+			<guid isPermaLink="true">https://www.joomlacommunity.nl/blogs/joomla-helpschermen-in-joomla-4</guid>
+			<description><![CDATA[<p><img src="https://www.joomlacommunity.nl//images/02_86773d15e6_HelpschermenKop-intro.jpg" alt=""></p><p>Misschien is het in Joomla 3 al opgevallen, er zitten helpschermen in het beheergedeelte van Joomla. Op vrijwel ieder scherm vind je een Help-knop. Ze werken in Joomla 3 echter niet helemaal perfect en lang niet alles is vertaald. Als je een beheertaal gebruikt en iets niet vertaald is in die taal, dan verschijnt de Engelse tekst. Nu waren deze helpschermen ook niet echt nodig, overal in het beheergedeelte zijn ‘hoovers’ zichtbaar voor als je niet helemaal weet waar het betreffende item over gaat en wat je er zou kunnen invullen.</p>
+]]></description>
+			<category>Blogs</category>
+			<pubDate>Mon, 02 Nov 2020 13:54:18 +0100</pubDate>
+		</item>
+		<item>
+			<title>Wat jij kunt doen om Joomla groter te maken</title>
+			<link>https://www.joomlacommunity.nl/blogs/wat-jij-kunt-doen-om-joomla-groter-te-maken</link>
+			<guid isPermaLink="true">https://www.joomlacommunity.nl/blogs/wat-jij-kunt-doen-om-joomla-groter-te-maken</guid>
+			<description><![CDATA[<p><img src="https://www.joomlacommunity.nl//images/nieuws/2020/10/14_43decab586_MarktShare-intro.jpg" alt="Wat jij kunt doen om Joomla groter te maken"></p><p>Joomla is fantastische software. Het is krachtig, superflexibel en betrouwbaar. Met Joomla kun je vrijwel elke website bouwen. Ik weet dat. Jij waarschijnlijk ook. Maar de rest van de wereld? Die verkeert in onwetendheid. Het gevolg: Joomla’s marktaandeel daalt. Het goede nieuws is dat ik daar iets aan kan doen, en jij ook.</p>
+]]></description>
+			<category>Blogs</category>
+			<pubDate>Wed, 14 Oct 2020 06:30:21 +0200</pubDate>
+		</item>
+		<item>
+			<title>Je eerste offerte voor een Joomla project: zo doe je dat</title>
+			<link>https://www.joomlacommunity.nl/blogs/je-eerste-offerte-voor-een-joomla-project-zo-doe-je-dat</link>
+			<guid isPermaLink="true">https://www.joomlacommunity.nl/blogs/je-eerste-offerte-voor-een-joomla-project-zo-doe-je-dat</guid>
+			<description><![CDATA[<p><img src="https://www.joomlacommunity.nl//images/nieuws/2020/09/24_e5cef256cd_despaired.-intro.jpg" alt=""></p><p>Je weet hoe Joomla werkt. Je kunt een website inrichten, templates wijzigen en componenten installeren en aanpassen, en misschien zelfs zelf plugins of extensies bouwen. <br />In je netwerk heb je verteld dat je als ondernemer aan de slag gaat. Nu heeft een neef van een vriend je aanbevolen bij de oom van een buurman. En hij wil een offerte voor een website! Help, wat nu? Geen paniek, gewoon doorlezen.</p>
+]]></description>
+			<category>Blogs</category>
+			<pubDate>Thu, 24 Sep 2020 13:49:17 +0200</pubDate>
+		</item>
+		<item>
+			<title>Wie is de baas van Joomla?</title>
+			<link>https://www.joomlacommunity.nl/blogs/wie-is-de-baas-van-joomla</link>
+			<guid isPermaLink="true">https://www.joomlacommunity.nl/blogs/wie-is-de-baas-van-joomla</guid>
+			<description><![CDATA[<p><img src="https://www.joomlacommunity.nl//images/nieuws/2020/05/19_f95da759d5_osm-organization.-intro.png" alt="Wie is de baas van Joomla?"></p><p>Je staat er misschien niet altijd bij stil, maar Joomla is een levend CMS waaraan wordt gewerkt door duizenden vrijwilligers wereldwijd. En waar honderden vrijwilligers werken, daar is structuur nodig, en coördinatie, en organisatie. Hoe zit de Joomla organisatie eigenlijk in elkaar?</p>
+]]></description>
+			<category>Blogs</category>
+			<pubDate>Tue, 19 May 2020 06:30:21 +0200</pubDate>
+		</item>
+		<item>
+			<title>Virtuele JUG organiseren? Zo doe je dat!</title>
+			<link>https://www.joomlacommunity.nl/blogs/virtuele-jug-organiseren-zo-doe-je-dat</link>
+			<guid isPermaLink="true">https://www.joomlacommunity.nl/blogs/virtuele-jug-organiseren-zo-doe-je-dat</guid>
+			<description><![CDATA[<p><img src="https://www.joomlacommunity.nl//images/nieuws/2020/03/04_04cdc9eae8_29_4a7f24803c_online_meeting_500.-intro.-intro.jpg" alt=""></p><p>Wat doe je als je JUG-bijeenkomst wegens de corona-crisis niet door kan gaan? Een virtuele bijeenkomst organiseren natuurlijk! Maar hoe?</p>
+<p>Johan van der Velden, Leon Kolenburg en Pierre Veelen, organisatoren van Joomla User Groep JUG043 Maastricht, staken de koppen bij elkaar en kwamen met een oplossing.</p>
+<p>Hieronder vertelt Johan hoe ze tot die oplossing kwamen en geeft hij tips om zelf ook een virtuele JUG te organiseren.</p>
+]]></description>
+			<category>Blogs</category>
+			<pubDate>Wed, 15 Apr 2020 07:56:40 +0200</pubDate>
+		</item>
+		<item>
+			<title>De Joomla Bedrijvengids</title>
+			<link>https://www.joomlacommunity.nl/blogs/de-joomla-bedrijvengids</link>
+			<guid isPermaLink="true">https://www.joomlacommunity.nl/blogs/de-joomla-bedrijvengids</guid>
+			<description><![CDATA[<p><img src="https://www.joomlacommunity.nl//images/nieuws/2020/03/19b1524066.png" alt="De Joomla Bedrijvengids"></p><p>Meer klanten en meer samenwerking!</p>
+<p>Vraag jij je ook weleens af welke Joomla bedrijven er nog meer bij jou in de buurt zitten? Of er mensen zijn die dingen kunnen die jij niet kan, en dus een mooie aanvulling zouden kunnen bieden aan jouw diensten als je zou samenwerken? Hoe je jouw klanten kunt laten zien dat er echt wel een boel mensen met Joomla werken?</p>
+<p>De oplossing voor al deze problemen is gevonden: <strong>De Joomla Bedrijvengids</strong>!</p>
+]]></description>
+			<category>Blogs</category>
+			<pubDate>Fri, 13 Mar 2020 07:30:21 +0100</pubDate>
+		</item>
+		<item>
+			<title>Joomla? Is dat nieuw?</title>
+			<link>https://www.joomlacommunity.nl/blogs/joomla-is-dat-nieuw</link>
+			<guid isPermaLink="true">https://www.joomlacommunity.nl/blogs/joomla-is-dat-nieuw</guid>
+			<description><![CDATA[<p><img src="https://www.joomlacommunity.nl//images/nieuws/2020/02/11_1098a59e89_joomla-rules-mok-k.-intro.png" alt="Joomla? Is dat nieuw?"></p><p>Je ontmoet iemand bij een netwerkbijeenkomst, of op een feestje, en je zegt dat je websites maakt. “Oh, met WordPress?” vragen ze dan. Jij zegt dat je Joomla gebruikt, en het gesprek valt even stil. Soms schudt je gesprekspartner vervolgens het hoofd: “Nooit van gehoord”, soms vraagt hij (of zij) “Bestaat dat nog dan?”, soms meldt-ie dat het onveilig is, of moeilijk, of dat het er niet uitziet. Wordt het niet eens tijd om een eind te maken aan die misvattingen en die onwetendheid?<br />Wereldwijd is Joomla het tweede CMS. Na WordPress, dat ongeveer twee jaar langer bestaat. Een op de 35 websites draait op Joomla. Dat is iets waar je als Joomler best trots op mag zijn.</p>
+]]></description>
+			<category>Blogs</category>
+			<pubDate>Tue, 11 Feb 2020 07:30:21 +0100</pubDate>
+		</item>
+		<item>
+			<title>Joomla! code, HTMLHelper voor het laden van media bestanden</title>
+			<link>https://www.joomlacommunity.nl/blogs/joomla-code-htmlhelper-voor-het-laden-van-media-bestanden</link>
+			<guid isPermaLink="true">https://www.joomlacommunity.nl/blogs/joomla-code-htmlhelper-voor-het-laden-van-media-bestanden</guid>
+			<description><![CDATA[<p><img src="https://www.joomlacommunity.nl//images/nieuws/2019/12/10440a3ed2.png" alt="Het vertalen van Joomla documentatie"></p><p>Als je zelf extensies bouwt, is de HTMLHelper een tool die je veel werk kan besparen. De HTMLHelper is een hulpbestand in Joomla dat het onder andere makkelijk maakt om mediabestanden zoals JavaScript en CSS te laden. Er kan nog veel meer mee maar in dit verhaal blijven we bij mediabestanden.</p>
+]]></description>
+			<category>Blogs</category>
+			<pubDate>Wed, 15 Jan 2020 07:30:21 +0100</pubDate>
+		</item>
+		<item>
+			<title>Het vertalen van Joomla documentatie</title>
+			<link>https://www.joomlacommunity.nl/blogs/het-vertalen-van-joomla-documentatie</link>
+			<guid isPermaLink="true">https://www.joomlacommunity.nl/blogs/het-vertalen-van-joomla-documentatie</guid>
+			<description><![CDATA[<p><img src="https://www.joomlacommunity.nl//images/nieuws/2019/12/06_6d98278bb4_DocVertalenHeader.-intro.png" alt="Het vertalen van Joomla documentatie"></p><p>Joomla 4.0 begint langzaam vorm te krijgen. Momenteel worden er alfa releases uitgebracht, maar het duurt niet lang meer of de eerste bèta release komt eraan. Een bèta release bevat volgens de ontwikkelstrategie alle functies, maar is nog niet geschikt voor productie omgevingen. Met het uitbrengen van de bèta zal ook de documentatie op docs.joomla.org definitieve vorm gaan aannemen. Nieuwe- en gewijzigde documentatie moet natuurlijk ook vertaald worden. Een mooie gelegenheid om nog eens onder de aandacht te brengen hoe het vertalen in zijn werk gaat.</p>
+]]></description>
+			<category>Blogs</category>
+			<pubDate>Wed, 18 Dec 2019 13:33:00 +0100</pubDate>
+		</item>
+		<item>
+			<title>Joomlacommunity.nl zoekt bloggers</title>
+			<link>https://www.joomlacommunity.nl/blogs/joomlacommunity-nl-zoekt-bloggers</link>
+			<guid isPermaLink="true">https://www.joomlacommunity.nl/blogs/joomlacommunity-nl-zoekt-bloggers</guid>
+			<description><![CDATA[<p><img src="https://www.joomlacommunity.nl//images/nieuws/2019/11/c50_blogger_JC_150px.png" alt="Joomlacommunity.nl zoekt bloggers"></p><p>Het afgelopen jaar hebben een aantal bekende en minder bekende Joomlers een blog geschreven voor deze website. Misschien heb je ze gelezen en misschien heb je gedacht: hé leuk, dat zou ik ook wel willen doen. Het goede nieuws is dat dat kan. We willen de huidige groep bloggers graag uitbreiden met nog een paar nieuwe bloggers zodat we iedere maand een nieuwe bijdrage op de website van de Joomlacommunity kunnen plaatsen.</p>
+]]></description>
+			<category>Blogs</category>
+			<pubDate>Wed, 13 Nov 2019 06:54:38 +0100</pubDate>
+		</item>
+		<item>
+			<title>Versiebeheer van Joomla-artikelen</title>
+			<link>https://www.joomlacommunity.nl/blogs/versiebeheer-van-joomla-artikelen</link>
+			<guid isPermaLink="true">https://www.joomlacommunity.nl/blogs/versiebeheer-van-joomla-artikelen</guid>
+			<description><![CDATA[<p><img src="https://www.joomlacommunity.nl//images/nieuws/2019/10/5da_instellingen.png" alt="Versiebeheer van Joomla-artikelen"></p><p>Een nieuwe Joomla-versie bevat niet alleen verbeteringen en een oplossing voor veiligheidslekken (bugs). In sommige versies zitten ook nieuwe functionaliteiten. Zo is Privacy Suite sinds 3.9.0 toegevoegd vanwege de privacywetgeving. Van sommige functionaliteiten in Joomla kom je er pas na jaren achter dat ze aanwezig zijn. Dat gebeurde mij met com_contenthistory, oftewel Versiebeheer, dat sinds Joomla 3.2 aanwezig is.</p>
+]]></description>
+			<category>Blogs</category>
+			<pubDate>Tue, 15 Oct 2019 08:28:22 +0200</pubDate>
+		</item>
+		<item>
+			<title>Pizza, Bugs &amp; Fun</title>
+			<link>https://www.joomlacommunity.nl/blogs/pizza-bugs-fun</link>
+			<guid isPermaLink="true">https://www.joomlacommunity.nl/blogs/pizza-bugs-fun</guid>
+			<description><![CDATA[<p><img src="https://www.joomlacommunity.nl//images/nieuws/2019/09/3d6_PBF-150px.png" alt="Pizza, Bugs &amp; Fun 19 oktober 2019"></p><p>De eerste Pizza, Bugs &amp; Fun (PBF) waar ik aan deelnam was op 4 november 2016 in Eindhoven. Daarvoor dacht ik altijd dat dit niets voor mij was. Ik ben niet zo heel technisch en ik kan niet programmeren. Niets bleek minder waar. Ook als je niet kan programmeren zijn er genoeg dingen waar je bij kan helpen. Waar je hulp hard nodig is zelfs. Sindsdien schuif ik aan wanneer ik kan. Want boven alles is het vooral veel FUN.</p>
+]]></description>
+			<category>Blogs</category>
+			<pubDate>Thu, 12 Sep 2019 08:28:22 +0200</pubDate>
+		</item>
+		<item>
+			<title>De grote schoonmaak</title>
+			<link>https://www.joomlacommunity.nl/blogs/de-grote-schoonmaak</link>
+			<guid isPermaLink="true">https://www.joomlacommunity.nl/blogs/de-grote-schoonmaak</guid>
+			<description><![CDATA[<p><img src="https://www.joomlacommunity.nl//images/nieuws/2019/08/af2_micro-fiber-cloth-2716116_1280.jpg" alt="De grote schoonmaak"></p><p>Het afgelopen jaar kreeg ik de opdracht om een grote Joomla-website op te schonen. En dat opschonen was zeker nodig! Tientallen extensies, honderden afbeeldingen, meer dan 1.300 niet gebruikte artikelen en bijna 2.500 onnodige modules heb ik op kunnen ruimen. In dit artikel leg ik je uit hoe je jouw website zelf kunt opschonen, zodat het een werkbare omgeving blijft.</p>
+]]></description>
+			<category>Blogs</category>
+			<pubDate>Wed, 14 Aug 2019 08:28:22 +0200</pubDate>
+		</item>
+		<item>
+			<title>Extensies voor Joomla – waar let je op?</title>
+			<link>https://www.joomlacommunity.nl/blogs/extensies-voor-joomla-waar-let-je-op</link>
+			<guid isPermaLink="true">https://www.joomlacommunity.nl/blogs/extensies-voor-joomla-waar-let-je-op</guid>
+			<description><![CDATA[<p><img src="https://www.joomlacommunity.nl//images/nieuws/2019/06/c3a_JED.JPG" alt="Joomla! Extensions Directory"></p><p>Joomla kan veel, maar soms heb je extra functionaliteit nodig die niet standaard in Joomla zit. Dan heb je een extensie nodig. Voorbeelden van extensies zijn: templates, een webshop, formulieren, een nieuwsbrief, een e-learning platform, een firewall of extensies die het beheer makkelijker maken.<br />Met extensies breid je de functionaliteit van je website uit. Ze zijn er van klein tot groot: van plugins waarmee je snel en gemakkelijk video’s kunt insluiten tot complete toepassingen zoals een webshop.</p>
+]]></description>
+			<category>Blogs</category>
+			<pubDate>Thu, 13 Jun 2019 08:28:22 +0200</pubDate>
+		</item>
+		<item>
+			<title>De kracht van overrides</title>
+			<link>https://www.joomlacommunity.nl/blogs/de-kracht-van-overrides</link>
+			<guid isPermaLink="true">https://www.joomlacommunity.nl/blogs/de-kracht-van-overrides</guid>
+			<description><![CDATA[<p><img src="https://www.joomlacommunity.nl//images/nieuws/2019/05/577_Override.JPG" alt=""></p><p><em>Vol enthousiasme installeerde ik de gekozen template in mijn kersverse Joomla! Website. Na een beetje op en neer klikken had ik deze template uitgekozen als dé ideale template voor de nieuwe website die ik ging maken. Ik koos niet voor de installatie van de quickstart, want dan moest al die voorbeeld content er straks weer uitgesloopt worden. Toen ik de juiste template had geselecteerd en naar de homepage van mijn website ging, zag dat er toch net anders uit dan de demo van de template.</em></p>
+]]></description>
+			<category>Blogs</category>
+			<pubDate>Wed, 15 May 2019 08:28:22 +0200</pubDate>
+		</item>
+		<item>
+			<title>Het vertalen van Joomla</title>
+			<link>https://www.joomlacommunity.nl/blogs/het-vertalen-van-joomla</link>
+			<guid isPermaLink="true">https://www.joomlacommunity.nl/blogs/het-vertalen-van-joomla</guid>
+			<description><![CDATA[<p><img src="https://www.joomlacommunity.nl//images/nieuws/2019/03/0ac_CoreVertalen1.png" alt=""></p><p>Heb je je wel eens afgevraagd hoe het komt dat Joomla, bij een nieuwe release, steeds nieuwe taalbestanden heeft? En als je een foutje in de vertaling vindt, of een betere vertaling hebt, wat je daar dan mee moet? Ook het vertalen is een product van de Joomla community. Al samenwerkend wordt iedere keer een nieuw taalbestand gemaakt. Vaak, zoals nu de 3.x serie, is het na de initiële oplevering niet zo veel werk meer, maar bij een nieuwe release, zoals Joomla 4.0 kan dat wel wat werk opleveren. Als je dit gelezen hebt hoop ik dat je ook gaat bijdragen.</p>
+]]></description>
+			<category>Blogs</category>
+			<pubDate>Mon, 15 Apr 2019 06:04:22 +0200</pubDate>
+		</item>
+		<item>
+			<title>Het Joomla! Certification Program is net als een taart bakken</title>
+			<link>https://www.joomlacommunity.nl/blogs/het-joomla-certification-program-is-net-als-een-taart-bakken</link>
+			<guid isPermaLink="true">https://www.joomlacommunity.nl/blogs/het-joomla-certification-program-is-net-als-een-taart-bakken</guid>
+			<description><![CDATA[<p><img src="https://www.joomlacommunity.nl//images/nieuws/2019/03/758_Photo-by-Fancycrave-on-Unsplash--taart.jpg" alt=""></p><p>Wanneer Meester Boulanger Robèrt van Beckhoven aan de slag gaat met bloem, eieren en suiker, dan komt daar een prachtige en overheerlijke taart uit. Wanneer wij met bloem, eieren en suiker aan de slag gaan dan zit sowieso de hele keuken onder en hopen we dat er ‘iets eetbaars’ uit komt. Dat is in twee regels samengevat ook het verschil tussen Certified Joomla! Administrators en andere websitebouwers.</p>
+]]></description>
+			<category>Blogs</category>
+			<pubDate>Thu, 14 Mar 2019 16:43:47 +0100</pubDate>
+		</item>
+		<item>
+			<title>JoomlaCommunity.eu wordt JoomlaCommunity.nl en een nieuwe site</title>
+			<link>https://www.joomlacommunity.nl/blogs/joomlacommunity-eu-wordt-joomlacommunity-nl-en-een-nieuwe-site</link>
+			<guid isPermaLink="true">https://www.joomlacommunity.nl/blogs/joomlacommunity-eu-wordt-joomlacommunity-nl-en-een-nieuwe-site</guid>
+			<description><![CDATA[<p><img src="https://www.joomlacommunity.nl//images/nieuws/2017/01/941_Screen-Shot-2017-01-01-at-22.30.21.png" alt=""></p><p>Het zal even wennen zijn, maar JoomlaCommunity.nl is helemaal vernieuwd en we zijn verhuisd naar JoomlaCommunity.nl! De oude site stamde uit 2008 en draaide zelfs nog op Joomla! 1.5.... &nbsp;dus hard aan vervanging toe! In de afgelopen maanden is er door vele vrijwilligers gewerkt aan een nieuwe website voor de Nederlandse community. We hebben de vernieuwing van de site aangegrepen om veel wijzigingen aan de opbouw van de site door te voeren. We zetten ze voor je op een rijtje:</p>
+]]></description>
+			<category>Blogs</category>
+			<pubDate>Sun, 01 Jan 2017 21:32:22 +0100</pubDate>
+		</item>
+		<item>
+			<title>Fijne feestdagen en een mooi 2017!</title>
+			<link>https://www.joomlacommunity.nl/blogs/fijne-feestdagen-en-een-mooi-2017</link>
+			<guid isPermaLink="true">https://www.joomlacommunity.nl/blogs/fijne-feestdagen-en-een-mooi-2017</guid>
+			<description><![CDATA[<p><img src="https://www.joomlacommunity.nl//images/nieuws/2016/12/8e0_happyholidays2016.jpg" alt=""></p><p>Wij wensen je fijne feestdagen en een mooi 2017!</p>
+<p>Wij willen graag iedereen bedanken die op enig wijze het afgelopen jaar zijn of haar steentje heeft bijgedragen aan de Nederlandstalige Joomlacommunity!&nbsp;</p>
+<h3>Nieuwjaarsborrel zaterdag 14 januari in Utrecht</h3>
+<p>Het bestuur van Stichting Sympathy nodigt graag alle Joomla gebruikers uit voor een nieuwjaarsborrel op zaterdag 14 januari 2017 van 16:00-18:00 uur bij Martijn in Utrecht. Samen blikken we onder het genot van een hapje en een drankje terug op het afgelopen jaar en maken we nieuwe plannen voor 2017!</p>
+]]></description>
+			<category>Blogs</category>
+			<pubDate>Sun, 25 Dec 2016 08:00:00 +0100</pubDate>
+		</item>
+		<item>
+			<title>Joomla nieuwjaarsborrel op zaterdag 16 januari in Bussum</title>
+			<link>https://www.joomlacommunity.nl/blogs/joomla-nieuwjaarsborrel-op-zaterdag-16-januari-in-bussum</link>
+			<guid isPermaLink="true">https://www.joomlacommunity.nl/blogs/joomla-nieuwjaarsborrel-op-zaterdag-16-januari-in-bussum</guid>
+			<description><![CDATA[<p><img src="https://www.joomlacommunity.nl/images/stories/nieuws/nieuwjaarsborrel-2012.jpg" alt="nieuwjaarsborrel-2012" width="250" height="187" style="margin: 0px 0px 0px 5px; float: right;" />Joomla gebruikers onder elkaar staat gelijk aan gezelligheid, dat is inmiddels gebleken uit de Joomla!Dagen, bijeenkomsten van de Joomla gebruikersgroepen en andere activiteiten door het jaar heen. Tijdens deze momenten dat we elkaar beter leren kennen ontstaan er regelmatig leuke nieuwe ideeën en samenwerkingen.</p>
+<p>Het bestuur van <a href="//www.stichtingsympathy.nl/" title="Stichting Sympathy">Stichting Sympathy</a> nodigt daarom graag alle Joomla gebruikers uit voor een nieuwjaarsborrel op <strong>zaterdag 16 januari 2016 van 16:00-18:00 uur bij de Watertoren in Bussum</strong>. Goed bereikbaar met de auto en het openbaar vervoer (station Bussum-Zuid voor de deur).</p>
+<p>Samen blikken we onder het genot van een hapje en een drankje terug op het afgelopen jaar en maken we nieuwe plannen voor 2016!</p>
+<p>De toegang is gratis (al is een <a href="//www.stichtingsympathy.nl/doneren" title="Doneren">donatie</a> natuurlijk welkom!) maar we verzoeken je wel aan te melden zodat we rekening kunnen houden met je komst. <a href="//www.joomlacommunity.nl/joomla-gebruikersgroepen/details/651-joomla-nieuwjaarsborrel.html">Aanmelden kan via deze pagina</a>.</p>
+<h3>Help mee met de nieuwe JoomlaCommunity.nl website!</h3>
+<p>Het is hoog tijd voor een nieuwe JoomlaCommunity.nl website. De basis hiervoor is gemaakt, maar moet afgerond worden. Daarvoor is je hulp van harte welkom! Op zaterdag 16 januari gaan we van 10:00 - 16:00 uur aan de slag, voordat de nieuwjaarsborrel van start gaat. Ben je handig met Joomla templates? Modules maken? Teksten schrijven? Of heb je een ander briljant plan voor de website? <a href="//www.joomlacommunity.nl/joomla-gebruikersgroepen/details/652-werken-aan-nieuwe-joomlacommunityeu-site.html">Kom dan deze zaterdag te helpen en meld je hier aan!</a></p>
+<p>Tot op de nieuwjaarsborrel op 16 januari!</p>
+]]></description>
+			<category>Blogs</category>
+			<pubDate>Tue, 05 Jan 2016 20:00:00 +0100</pubDate>
+		</item>
+	</channel>
+</rss>

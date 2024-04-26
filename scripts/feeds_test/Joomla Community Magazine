@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Latest blog entries</title>
+		<description><![CDATA[All blog entries from https://magazine.joomla.org/]]></description>
+		<link>https://magazine.joomla.org/all-issues</link>
+		<lastBuildDate>Tue, 26 Mar 2024 08:33:27 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://magazine.joomla.org/all-issues?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>The March Issue</title>
+			<link>https://magazine.joomla.org/all-issues/march-2024/the-march-issue-2024</link>
+			<guid isPermaLink="true">https://magazine.joomla.org/all-issues/march-2024/the-march-issue-2024</guid>
+			<description><![CDATA[<p>The JCM Team is proud to present you the <strong>March</strong> Issue of the Joomla! Community Magazine.</p>
+]]></description>
+			<category>March</category>
+			<pubDate>Wed, 20 Mar 2024 07:00:00 +0000</pubDate>
+			<enclosure url="https://magazine.joomla.org/images/easyblog_articles/3457/March-3.jpg" length="161769" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>Leadership interview: Carlos Cámara, Operations Department Coordinator</title>
+			<link>https://magazine.joomla.org/all-issues/march-2024/leadership-interview-carlos-camara-operations-department-coordinator</link>
+			<guid isPermaLink="true">https://magazine.joomla.org/all-issues/march-2024/leadership-interview-carlos-camara-operations-department-coordinator</guid>
+			<description><![CDATA[<p>Joomla's Operations Department Coordinator is responsible for the day to day operation of all the Joomla.org websites, such as the Joomla Extensions Directory, the one and only Joomla Community Magazine and the Volunteers Portal. Since a few weeks, Operations has a new coordinator: Carlos Cámara. Carlos has been volunteering for quite a while, so he's not exactly a new face in the Joomla Crowd. Find out why he stepped up for this particular board position!</p>
+]]></description>
+			<category>March</category>
+			<pubDate>Wed, 20 Mar 2024 06:57:00 +0000</pubDate>
+			<enclosure url="https://magazine.joomla.org/images/easyblog_articles/3451/2024-JCM-March-Carlos.jpg" length="158075" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>Less than 10 mins to change the design of the login module</title>
+			<link>https://magazine.joomla.org/all-issues/march-2024/less-than-10-mins-to-change-the-design-of-the-login-module</link>
+			<guid isPermaLink="true">https://magazine.joomla.org/all-issues/march-2024/less-than-10-mins-to-change-the-design-of-the-login-module</guid>
+			<description><![CDATA[<p>"<i>Joomla is complicated</i>", "<i>Joomla is for tech guys</i>", "<i>Joomla isn't user friendly</i>". These are just a few of the most common (unfair) critics - or rather: assumptions - I've read about this awesome CMS.</p>
+<p>In fact, Joomla is exactly like any other CMS or topic: cooking, astrophysic, woodcraft, scuba diving, etc. It's complicated if you don't take time to learn and to train about a minimum.</p>
+]]></description>
+			<category>March</category>
+			<pubDate>Wed, 20 Mar 2024 06:56:00 +0000</pubDate>
+			<enclosure url="https://magazine.joomla.org/images/easyblog_articles/3442/2024--JCM-March-Login-Module.jpg" length="145696" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>Why I contribute to Joomla  : Harald Leithner</title>
+			<link>https://magazine.joomla.org/all-issues/march-2024/why-i-contribute-to-joomla-harald-leithner</link>
+			<guid isPermaLink="true">https://magazine.joomla.org/all-issues/march-2024/why-i-contribute-to-joomla-harald-leithner</guid>
+			<description><![CDATA[<p>For years, Harald Leithner has been developing Joomla extensions for his customers, but he didn't stop at just that. He's also very active in improving the core of Joomla and contributing his technical knowledge for new features and takes part in a few teams even as Leader.</p>
+<p>But what inspired him to contribute to the development of your favourite CMS?</p>
+]]></description>
+			<category>March</category>
+			<pubDate>Wed, 20 Mar 2024 06:56:00 +0000</pubDate>
+			<enclosure url="https://magazine.joomla.org/images/easyblog_articles/3446/2024--JCM-March-Harald.jpg" length="159668" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>Cassiopeia, Joomla’s powerful built-in template: how to use css classes to style images</title>
+			<link>https://magazine.joomla.org/all-issues/march-2024/cassiopeia%2C-joomla%E2%80%99s-powerful-built-in-template-how-to-use-css-classes-to-style-images</link>
+			<guid isPermaLink="true">https://magazine.joomla.org/all-issues/march-2024/cassiopeia%2C-joomla%E2%80%99s-powerful-built-in-template-how-to-use-css-classes-to-style-images</guid>
+			<description><![CDATA[<p>In the last article of this series (<a href="https://magazine.joomla.org/all-issues/february-2024/cassiopeia-joomla-powerful-built-in-template" target="_blank" rel="noopener">Cassiopeia, Joomla’s powerful built-in template: how to use css classes for your category blog</a>) we talked about css classes for the category blog. Now we want to explore the possibilities for styling and positioning images inside an article.</p>
+]]></description>
+			<category>March</category>
+			<pubDate>Wed, 20 Mar 2024 06:56:00 +0000</pubDate>
+			<enclosure url="https://magazine.joomla.org/images/easyblog_articles/3455/2024--March-CSS-Classes.jpg" length="152742" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>You can't fool me when it comes to SPF, DKIM, and DMARC!</title>
+			<link>https://magazine.joomla.org/all-issues/march-2024/you-can-t-fool-me-when-it-comes-to-spf-dkim-and-dmarc</link>
+			<guid isPermaLink="true">https://magazine.joomla.org/all-issues/march-2024/you-can-t-fool-me-when-it-comes-to-spf-dkim-and-dmarc</guid>
+			<description><![CDATA[<p>Every day, we send and receive emails, and often, these contain important information that we want delivered securely and for the intended recipient's eyes only. When important things end up in the spam folder, it is a pain… but this is an inconvenience that you can address with a degree of success.Since we are bombarded with fake emails, spam and spoofs trying to trick and do us harm, fighting spam is necessary. If you send emails, there’s a number of tools you can (or should) use to not be classified as spam and show you’re legit: SPF, DKIM and DMARC. </p>
+]]></description>
+			<category>March</category>
+			<pubDate>Wed, 20 Mar 2024 06:55:00 +0000</pubDate>
+			<enclosure url="https://magazine.joomla.org/images/easyblog_articles/3448/March-DKIM.jpg" length="154297" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>Don’t You Forget About Me - How CRON changed my working week</title>
+			<link>https://magazine.joomla.org/all-issues/march-2024/don%E2%80%99t-you-forget-about-me-how-cron-changed-my-working-week</link>
+			<guid isPermaLink="true">https://magazine.joomla.org/all-issues/march-2024/don%E2%80%99t-you-forget-about-me-how-cron-changed-my-working-week</guid>
+			<description><![CDATA[<p>As a young IT manager, sometime at the end of the last century, I came across a term that interested me a lot. It was “set it, and forget it”. Sounds a bit haphazard, doesn’t it? Apparently it was less to do with software than rotisserie chicken cooking. You'll find it on Google. Why would I want to forget something important? Well, semantics aside, the principle meant that I could go off and do other things rather than waiting to make sure my backups had run. </p>
+]]></description>
+			<category>March</category>
+			<pubDate>Wed, 20 Mar 2024 06:55:00 +0000</pubDate>
+			<enclosure url="https://magazine.joomla.org/images/easyblog_articles/3456/2024--JCM-March-CRO_20240316-170839_1.jpg" length="158455" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>Joomla at the women&amp;&amp;code conference</title>
+			<link>https://magazine.joomla.org/all-issues/march-2024/joomla-at-the-women-code-conference</link>
+			<guid isPermaLink="true">https://magazine.joomla.org/all-issues/march-2024/joomla-at-the-women-code-conference</guid>
+			<description><![CDATA[<p>A software conference with only women on the podium - is that possible? Of course it is! And not just to prove this but also to share an extremely high level of knowledge the first women&amp;&amp;code conference took place in Vienna.</p>
+]]></description>
+			<category>March</category>
+			<pubDate>Wed, 20 Mar 2024 06:55:00 +0000</pubDate>
+			<enclosure url="https://magazine.joomla.org/images/easyblog_articles/3453/2024--JCM-Women-And-Code.jpg" length="152486" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>CSS is evolving, evolve your code with this simple guide</title>
+			<link>https://magazine.joomla.org/all-issues/issues/css-is-evolving-evolve-your-code-with-this-simple-guide</link>
+			<guid isPermaLink="true">https://magazine.joomla.org/all-issues/issues/css-is-evolving-evolve-your-code-with-this-simple-guide</guid>
+			<description><![CDATA[<p>I love the way some technologies are aware of what is going on around them and then pivot to make their own technology all the better by seeing if they can do the same as the bright young techs around them, bringing a new lease of life.</p>
+]]></description>
+			<category>Issues</category>
+			<pubDate>Wed, 20 Mar 2024 06:54:00 +0000</pubDate>
+			<enclosure url="https://magazine.joomla.org/images/easyblog_articles/3450/March-CSS.jpg" length="139405" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>Pizza has gone - Bugs and Fun remain</title>
+			<link>https://magazine.joomla.org/all-issues/march-2024/pizza-has-gone-bugs-and-fun-remain</link>
+			<guid isPermaLink="true">https://magazine.joomla.org/all-issues/march-2024/pizza-has-gone-bugs-and-fun-remain</guid>
+			<description><![CDATA[<p>The Pizza bugs and Fun event in February 2024 is over, Pizza is eaten and most likely digested, but Bugs and Fun persist. You might have caught the bug testing and enjoy the feeling of marking a test as successful. When one of your tests is crucial for the merging of a PR or prevents a catastrophe - how cool is that? <br />However, as a non-developer, you might not know how to continue the PR testing on your own, so here are some hints.</p>
+]]></description>
+			<category>March</category>
+			<pubDate>Wed, 20 Mar 2024 06:52:00 +0000</pubDate>
+			<enclosure url="https://magazine.joomla.org/images/easyblog_articles/3444/March-Patches.jpg" length="159134" type="image/jpeg"/>
+		</item>
+	</channel>
+</rss>

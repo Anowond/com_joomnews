@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Joomla! Official News</title>
+		<description><![CDATA[Joomla! - the dynamic portal engine and content management system]]></description>
+		<link>https://www.joomla.org/announcements.html</link>
+		<lastBuildDate>Tue, 26 Mar 2024 13:42:49 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.joomla.org/announcements.feed?type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>noreply@joomla.org (Joomla!)</managingEditor>
+		<item>
+			<title>Joomla 5.0.3 and 4.4.3 Security and Bug Fix Release</title>
+			<link>https://www.joomla.org/announcements/release-news/5904-joomla-5-0-3-and-4-4-3-security-and-bug-fix-release.html</link>
+			<guid isPermaLink="true">https://www.joomla.org/announcements/release-news/5904-joomla-5-0-3-and-4-4-3-security-and-bug-fix-release.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.org//images/release-images/BlogJ5.0.3.png" alt="Joomla 5.0.3 and 4.4.3 Security and Bug Fix release available for download today" width="869" height="400" loading="lazy"></p><p>The Joomla! Project is pleased to announce the release of Joomla 5.0.3 and 4.4.3. This is a security and bug fix release for the 5.x and 4.x series of Joomla.</p>
+]]></description>
+			<author>philip.walton@community.joomla.org (Philip Walton)</author>
+			<category>Project Release News</category>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla! Joins Forces in the Open Website Alliance</title>
+			<link>https://www.joomla.org/announcements/general-news/5903-joomla-joins-forces-in-the-open-website-alliance.html</link>
+			<guid isPermaLink="true">https://www.joomla.org/announcements/general-news/5903-joomla-joins-forces-in-the-open-website-alliance.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.org//images/logos/Open-Website-Alliance-Blog-Image.jpg" alt="Open Source Web Alliance" width="869" height="400" loading="lazy"></p><p>In an unprecedented move, Joomla, alongside other leading open-source content management systems including Drupal, TYPO3, and WordPress, has proudly co-founded the Open Website Alliance. This ground-breaking global, executive-level alliance symbolises a united front of international community organisations, all dedicated to championing the cause of open-source software over proprietary alternatives.</p>
+]]></description>
+			<author>philip.walton@community.joomla.org (Philip Walton)</author>
+			<category>General News</category>
+			<pubDate>Mon, 05 Feb 2024 10:40:11 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla 5.0.2 and 4.4.2 Bug Fix Release</title>
+			<link>https://www.joomla.org/announcements/release-news/5902-joomla-5-0-2-and-4-4-2-bug-fix-release.html</link>
+			<guid isPermaLink="true">https://www.joomla.org/announcements/release-news/5902-joomla-5-0-2-and-4-4-2-bug-fix-release.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.org/" alt="Joomla 5.0.2 and 4.4.2 available for download today"></p><p>The Joomla! Project is pleased to announce the release of Joomla 5.0.2 and 4.4.2. This is a bug fix release for the 5.x and 4.x series of Joomla.</p>
+]]></description>
+			<author>philip.walton@community.joomla.org (Philip Walton)</author>
+			<category>Project Release News</category>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla 5.0.1 and 4.4.1 Security and Bug Fix Release </title>
+			<link>https://www.joomla.org/announcements/release-news/5901-joomla-5-0-1-and-4-4-1-security-and-bug-fix-release.html</link>
+			<guid isPermaLink="true">https://www.joomla.org/announcements/release-news/5901-joomla-5-0-1-and-4-4-1-security-and-bug-fix-release.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.org//images/BlogJ5.0.1.png" alt="Joomla 5.0.1 and 4.4.1 available for download today" width="869" height="400" loading="lazy"></p><p class="lead">The Joomla! Project is pleased to announce the release of Joomla 5.0.1 and 4.4.1. This is a security and bug fix release for the 5.x and 4.x series of Joomla.</p>
+]]></description>
+			<author>philip.walton@community.joomla.org (Philip Walton)</author>
+			<category>Project Release News</category>
+			<pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla 5.0 and Joomla 4.4 are here!</title>
+			<link>https://www.joomla.org/announcements/release-news/5900-joomla-5-0-and-joomla-4-4-are-here.html</link>
+			<guid isPermaLink="true">https://www.joomla.org/announcements/release-news/5900-joomla-5-0-and-joomla-4-4-are-here.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.org//images/release-images/BlogJOOMLA5.png" alt="Joomla 5.0 available for download today" width="869" height="400" loading="lazy"></p><p class="lead">Let’s celebrate! Today is an important day for the Joomla! Project. We’re celebrating two years of hard work by our volunteers, who had the vision to produce a new major version every two years, and after all the discussion, code sprints, and bug squashing, the day has finally arrived. Today, we are proud to announce the release of our new major version, <a href="https://github.com/joomla/joomla-cms/releases/tag/5.0.0" target="_blank" rel="noopener">Joomla 5.0</a>, alongside <a href="https://github.com/joomla/joomla-cms/releases/tag/4.4.0" target="_blank" rel="noopener">Joomla 4.4</a>,</p>
+]]></description>
+			<author>harald.leithner@community.joomla.org (Harald Leithner)</author>
+			<category>Project Release News</category>
+			<pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla 5.0 Release Candidate 2 - Test the final package</title>
+			<link>https://www.joomla.org/announcements/release-news/5899-joomla-5-0-release-candidate-2-test-the-final-package.html</link>
+			<guid isPermaLink="true">https://www.joomla.org/announcements/release-news/5899-joomla-5-0-release-candidate-2-test-the-final-package.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.org//images/BlogPostJ5-RC2.png" alt="Joomla 5.0 Release Candidate 2" width="870" height="400" loading="lazy"></p><p class="lead">The Joomla Project is pleased to announce the availability of the <a href="https://github.com/joomla/joomla-cms/releases/tag/5.0.0-rc2">Joomla 5.0 Release Candidate 2</a> for testing.</p>
+]]></description>
+			<author>philip.walton@community.joomla.org (Philip Walton)</author>
+			<category>Project Release News</category>
+			<pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla 5.0 Release Candidate - Test the final package</title>
+			<link>https://www.joomla.org/announcements/release-news/5895-joomla-5-0-release-candidate-test-the-final-package.html</link>
+			<guid isPermaLink="true">https://www.joomla.org/announcements/release-news/5895-joomla-5-0-release-candidate-test-the-final-package.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.org//images/release-images/BlogPostJ5.0-RC1.png" alt="Joomla 5.0 Release Candidate" width="870" height="400" loading="lazy"></p><p class="lead">The Joomla Project is pleased to announce the availability of the <a href="https://github.com/joomla/joomla-cms/releases/tag/5.0.0-rc">Joomla 5.0 Release Candidate</a> for testing.</p>
+]]></description>
+			<author>philip.walton@community.joomla.org (Philip Walton)</author>
+			<category>Project Release News</category>
+			<pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla 4.4 Release Candidate - Test the final package</title>
+			<link>https://www.joomla.org/announcements/release-news/5896-joomla-4-4-release-candidate-test-the-final-package.html</link>
+			<guid isPermaLink="true">https://www.joomla.org/announcements/release-news/5896-joomla-4-4-release-candidate-test-the-final-package.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.org//images/release-images/Blogpost_869x400J4.4-RC1.png" alt="Joomla 4.4 Release Candidate image" width="869" height="400" loading="lazy"></p><p class="lead">The Joomla Project is pleased to announce the availability of the <a href="https://github.com/joomla/joomla-cms/releases/tag/4.4.0-rc1">Joomla 4.4 Release Candidate</a> for testing.</p>
+]]></description>
+			<author>philip.walton@community.joomla.org (Philip Walton)</author>
+			<category>Project Release News</category>
+			<pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Temporary Hosting Outage Affecting Website Accessibility</title>
+			<link>https://www.joomla.org/announcements/general-news/5897-temporary-hosting-outage-affecting-website-accessibility.html</link>
+			<guid isPermaLink="true">https://www.joomla.org/announcements/general-news/5897-temporary-hosting-outage-affecting-website-accessibility.html</guid>
+			<description><![CDATA[<p><strong>Important Notice to Our Valued Community Members and Partners</strong></p>
+<p>Dear Community Members and Partners,</p>
+<p>We regret to inform you of a temporary hosting outage that has rendered some of our websites inaccessible. Please accept our sincere apologies for any inconvenience this may have caused.</p>
+<p><strong>Details of the Outage:</strong> Our hosting provider, Rochen, provided the following update regarding the situation: “During the process of applying regular software updates to our VMware vSAN storage cluster, multiple node members rebooted for the updates. Concurrently, additional nodes experienced crashes. This convergence of events, though extremely unlikely, unfortunately transpired. Our top-tier technical team is diligently working to restore the vSAN storage cluster at the earliest. We deeply regret the inconvenience and appreciate your patience, especially as our support channels are currently overwhelmed.”</p>
+<p><strong>Date and Time of Outage</strong>: 1st October, starting around 06:00 UTC</p>
+<p><strong>Affected Websites:</strong> (Please note this list may not cover all affected sites)</p>
+<ul>
+<li><a href="https://community.joomla.org/" rel="noopener noreferrer" target="_blank"></a><a href="https://community.joomla.org">https://community.joomla.org</a></li>
+<li><a href="https://docs.joomla.org/Special:MyLanguage/" rel="noopener noreferrer" target="_blank"></a><a href="https://docs.joomla.org/Special:MyLanguage">https://docs.joomla.org</a></li>
+<li><a href="https://volunteers.joomla.org/" rel="noopener noreferrer" target="_blank"></a><a href="https://volunteers.joomla.org">https://volunteers.joomla.org</a></li>
+<li><a href="https://magazine.joomla.org/" rel="noopener noreferrer" target="_blank"></a><a href="https://magazine.joomla.org">https://magazine.joomla.org</a></li>
+<li><a href="https://www.opensourcematters.org/" rel="noopener noreferrer" target="_blank"></a><a href="https://www.opensourcematters.org">https://www.opensourcematters.org</a></li>
+<li><a href="https://extensions.joomla.org/" rel="noopener noreferrer" target="_blank"></a><a href="https://extensions.joomla.org/">https://extensions.joomla.org/</a></li>
+<li><a href="https://identity.joomla.org/" rel="noopener noreferrer" target="_blank"></a><a href="https://identity.joomla.org/">https://identity.joomla.org/</a></li>
+</ul>
+<p><strong>Estimated Time of Resolution:</strong> As of 05:00 UTC on October 2nd, Rochen reported that some VMs have been fully restored and are operational. However, restoration efforts continue for the remaining affected servers.</p>
+<p><strong>Our Response:</strong> We are maintaining regular communication with Rochen. We have confidence in our long-standing partner to address and rectify these issues effectively.</p>
+<p>We deeply regret the inconvenience and are dedicated to taking measures to minimize such disruptions in the future. Your patience and understanding during this challenging time are greatly appreciated.</p>
+<p>Warm regards,</p>]]></description>
+			<author>harald.leithner@community.joomla.org (Harald Leithner)</author>
+			<category>General News</category>
+			<pubDate>Mon, 02 Oct 2023 08:14:21 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla 4.3.4 Bug Fix Release</title>
+			<link>https://www.joomla.org/announcements/release-news/5893-joomla-4-3-4-bug-fix-release.html</link>
+			<guid isPermaLink="true">https://www.joomla.org/announcements/release-news/5893-joomla-4-3-4-bug-fix-release.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.org//images/J4.34BUGFIXBlogpost_869x400.png" alt="Joomla 4.3.4 Bug Fix Release" width="869" height="400" loading="lazy"></p><p class="lead">The Joomla! Project is pleased to announce the bug fix release of Joomla 4.3.4&nbsp;</p>
+]]></description>
+			<author>philip.walton@community.joomla.org (Philip Walton)</author>
+			<category>Project Release News</category>
+			<pubDate>Tue, 22 Aug 2023 01:56:30 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension type="component" method="upgrade">
+    <name>Joomnews</name>
+    <author><![CDATA[ Baroux Maxime]]></author>
+    <authorEmail><![CDATA[ baroux.maxime2@gmail.com]]></authorEmail>
+    <creationDate>2024-03-28</creationDate>
+    <copyright>(C) 2024 Hepta Technologies</copyright>
+    <license>GNU Genral Public License version 2 or later</license>
+    <version>1.0.0</version>
+    <description>COM_JOOMNEWS_DESCRIPTION</description>
+    <namespace path="src">HeptaTechnologies\Component\Joomnews</namespace>
+
+    <scriptfile>script.php</scriptfile>
+
+    <install>
+        <sql>
+            <file driver="mysql" charset="utf8">sql/install.mysql.utf8.sql</file>
+        </sql>
+    </install>
+    
+    <uninstall>
+        <sql>
+            <file driver="mysql" charset="utf8">sql/uninstall.mysql.utf8.sql</file>
+        </sql>
+    </uninstall>
+
+    <administration>
+        <files folder="admin">
+            <folder>assets/images</folder>
+            <folder>forms</folder>
+            <folder>language</folder>
+            <folder>services</folder>
+            <folder>src</folder>
+            <folder>tmpl</folder>
+            <folder>sql</folder>
+            <file>access.xml</file>
+            <file>config.xml</file>
+        </files>
+        <menu link="option=com_joomnews">COM_JOOMNEWS_MENU_BACKEND</menu>
+        <submenu>
+            <menu link="option=com_joomnews&amp;view=feeds">
+                COM_JOOMNEWS_FEEDS_LIST
+            </menu>
+            <menu link="option=com_categories&amp;view=categories&amp;extension=com_joomnews">
+                COM_JOOMNEWS_FEED_CATEGORIES
+            </menu>
+        </submenu>
+        <languages folder="admin">
+            <language tag="en-GB">language/en-GB/en-GB.com_joomnews.ini</language>
+            <language tag="en-GB">language/en-GB/en-GB.com_joomnews.sys.ini</language>
+        </languages>
+    </administration>
+
+    <files folder="site">
+        <folder>src</folder>
+        <folder>src</folder>
+        <folder>tmpl</folder>
+    </files>
+    <languages folder="site">
+        <language tag="en-GB">language/en-GB/en-GB.com_joomnews.ini</language>
+        <language tag="en-GB">language/en-GB/en-GB.com_joomnews.sys.ini</language>
+    </languages>
+
+</extension>

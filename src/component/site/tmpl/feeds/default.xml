@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <layout name="COM_JOOMNEWS_VIEW_FEEDS_MENU_LABEL">
+        <message>
+            <![CDATA[COM_JOOMNEWS_VIEW_FEEDS_MENU_DESC]]>
+        </message>
+    </layout>
+    
+</metadata>

@@ -1,0 +1,358 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+<link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UChcs-z9Z8GHf8ClmHvHX-3A"/>
+<id>yt:channel:hcs-z9Z8GHf8ClmHvHX-3A</id>
+<yt:channelId>hcs-z9Z8GHf8ClmHvHX-3A</yt:channelId>
+<title>Kevin's Guides</title>
+<link rel="alternate" href="https://www.youtube.com/channel/UChcs-z9Z8GHf8ClmHvHX-3A"/>
+<author>
+<name>Kevin's Guides</name>
+<uri>https://www.youtube.com/channel/UChcs-z9Z8GHf8ClmHvHX-3A</uri>
+</author>
+<published>2015-08-14T13:33:12+00:00</published>
+<entry>
+<id>yt:video:0imNxuPWiAE</id>
+<yt:videoId>0imNxuPWiAE</yt:videoId>
+<yt:channelId>UChcs-z9Z8GHf8ClmHvHX-3A</yt:channelId>
+<title>Joomla Template Dev: Why Learn Bootstrap?</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=0imNxuPWiAE"/>
+<author>
+<name>Kevin's Guides</name>
+<uri>https://www.youtube.com/channel/UChcs-z9Z8GHf8ClmHvHX-3A</uri>
+</author>
+<published>2023-12-10T15:47:57+00:00</published>
+<updated>2024-03-10T08:40:10+00:00</updated>
+<media:group>
+<media:title>Joomla Template Dev: Why Learn Bootstrap?</media:title>
+<media:content url="https://www.youtube.com/v/0imNxuPWiAE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i1.ytimg.com/vi/0imNxuPWiAE/hqdefault.jpg" width="480" height="360"/>
+<media:description>After many requests, I've made an incredibly simple 4-file Joomla starter template that does not require Bootstrap or Sass. But here's why it might actually be easier to just learn Bootstrap and Sass if you want to get better at Joomla template development, and web development in general. Full Template Development Guide: https://kevinsguides.com/guides/webdev/joomla/joomla-templates/dev-joom-tmpl JoomSkeletal Template (no Bootstrap): https://github.com/kevinsguides/joomskeletal JoomStarter Template (with Bootstrap): https://github.com/kevinsguides/JoomStarter Bootstrap's 100s of free ready to use stylized components with documentation: https://getbootstrap.com/docs/5.3/getting-started/introduction/</media:description>
+<media:community>
+<media:starRating count="4" average="5.00" min="1" max="5"/>
+<media:statistics views="267"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:wrGzSAcJdaE</id>
+<yt:videoId>wrGzSAcJdaE</yt:videoId>
+<yt:channelId>UChcs-z9Z8GHf8ClmHvHX-3A</yt:channelId>
+<title>PGP and Kleopatra</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=wrGzSAcJdaE"/>
+<author>
+<name>Kevin's Guides</name>
+<uri>https://www.youtube.com/channel/UChcs-z9Z8GHf8ClmHvHX-3A</uri>
+</author>
+<published>2023-12-07T16:38:53+00:00</published>
+<updated>2024-02-26T06:25:28+00:00</updated>
+<media:group>
+<media:title>PGP and Kleopatra</media:title>
+<media:content url="https://www.youtube.com/v/wrGzSAcJdaE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i4.ytimg.com/vi/wrGzSAcJdaE/hqdefault.jpg" width="480" height="360"/>
+<media:description>Learn about the PGP key-based encryption technology, including how to use Kleopatra to manage your PGP certificates, and how to encrypt, decrypt, and sign communications and files. Links: Written Guide: https://kevinsguides.com/guides/security/software/pgp-encryption Donations & Tips: https://kevinsguides.com/tips GPG4Win (Windows): https://gpg4win.org/download.html GPGTools (macOS): https://gpgtools.org/</media:description>
+<media:community>
+<media:starRating count="58" average="5.00" min="1" max="5"/>
+<media:statistics views="3155"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:3FdI2Icn_4I</id>
+<yt:videoId>3FdI2Icn_4I</yt:videoId>
+<yt:channelId>UChcs-z9Z8GHf8ClmHvHX-3A</yt:channelId>
+<title>Using Joomla's Schema.org System Plugin</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=3FdI2Icn_4I"/>
+<author>
+<name>Kevin's Guides</name>
+<uri>https://www.youtube.com/channel/UChcs-z9Z8GHf8ClmHvHX-3A</uri>
+</author>
+<published>2023-10-25T18:11:00+00:00</published>
+<updated>2024-03-15T17:19:34+00:00</updated>
+<media:group>
+<media:title>Using Joomla's Schema.org System Plugin</media:title>
+<media:content url="https://www.youtube.com/v/3FdI2Icn_4I?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i4.ytimg.com/vi/3FdI2Icn_4I/hqdefault.jpg" width="480" height="360"/>
+<media:description>Learn why adding schema.org formatted data to your Joomla! articles could be beneficial, and how to do it. Written Guide: https://kevinsguides.com/guides/webdev/joomla/content/joom-schema</media:description>
+<media:community>
+<media:starRating count="11" average="5.00" min="1" max="5"/>
+<media:statistics views="444"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:cSqQn0Rda9Y</id>
+<yt:videoId>cSqQn0Rda9Y</yt:videoId>
+<yt:channelId>UChcs-z9Z8GHf8ClmHvHX-3A</yt:channelId>
+<title>Whats New In Joomla 5.0</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=cSqQn0Rda9Y"/>
+<author>
+<name>Kevin's Guides</name>
+<uri>https://www.youtube.com/channel/UChcs-z9Z8GHf8ClmHvHX-3A</uri>
+</author>
+<published>2023-10-20T01:23:23+00:00</published>
+<updated>2024-03-07T20:00:53+00:00</updated>
+<media:group>
+<media:title>Whats New In Joomla 5.0</media:title>
+<media:content url="https://www.youtube.com/v/cSqQn0Rda9Y?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i4.ytimg.com/vi/cSqQn0Rda9Y/hqdefault.jpg" width="480" height="360"/>
+<media:description>Joomla 5.0 introduces dark mode, schema.org SEO improvements, vendor updates, and more.</media:description>
+<media:community>
+<media:starRating count="38" average="5.00" min="1" max="5"/>
+<media:statistics views="4159"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:zMShzlSlhUQ</id>
+<yt:videoId>zMShzlSlhUQ</yt:videoId>
+<yt:channelId>UChcs-z9Z8GHf8ClmHvHX-3A</yt:channelId>
+<title>Using Joomla's URL Redirect Plugin</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=zMShzlSlhUQ"/>
+<author>
+<name>Kevin's Guides</name>
+<uri>https://www.youtube.com/channel/UChcs-z9Z8GHf8ClmHvHX-3A</uri>
+</author>
+<published>2023-10-15T20:22:08+00:00</published>
+<updated>2024-03-16T07:59:28+00:00</updated>
+<media:group>
+<media:title>Using Joomla's URL Redirect Plugin</media:title>
+<media:content url="https://www.youtube.com/v/zMShzlSlhUQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i3.ytimg.com/vi/zMShzlSlhUQ/hqdefault.jpg" width="480" height="360"/>
+<media:description>Being able to redirect visitors from the wrong page to the right one is essential to a good user experience and SEO. Learn how to use Joomla's built in system redirect plugin to send your users to the right place. This video was designed for Joomla 4 and 5. Written guide available here: https://kevinsguides.com/guides/webdev/joomla/ref/joom-sys-redirect</media:description>
+<media:community>
+<media:starRating count="7" average="5.00" min="1" max="5"/>
+<media:statistics views="168"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:9fKgeQ2avm8</id>
+<yt:videoId>9fKgeQ2avm8</yt:videoId>
+<yt:channelId>UChcs-z9Z8GHf8ClmHvHX-3A</yt:channelId>
+<title>Joomla: Templates and Module Positions (Ch 8)</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=9fKgeQ2avm8"/>
+<author>
+<name>Kevin's Guides</name>
+<uri>https://www.youtube.com/channel/UChcs-z9Z8GHf8ClmHvHX-3A</uri>
+</author>
+<published>2023-06-15T02:32:51+00:00</published>
+<updated>2024-03-19T00:32:13+00:00</updated>
+<media:group>
+<media:title>Joomla: Templates and Module Positions (Ch 8)</media:title>
+<media:content url="https://www.youtube.com/v/9fKgeQ2avm8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/9fKgeQ2avm8/hqdefault.jpg" width="480" height="360"/>
+<media:description>Learn how to install, use, and configure templates in Joomla 4/5, along with module position settings. This video is part of the Intro to Joomla series. Read this guide for free: https://kevinsguides.com/guides/webdev/joomla/joom-intro/ch8-templates-mods Note: This video was originally produced for Joomla 4, but everything is identical in Joomla 5. JoomCharta Template: https://kevinsguides.com/guides/webdev/joomla/free-extensions/joomcharta-free-joomla-template</media:description>
+<media:community>
+<media:starRating count="22" average="5.00" min="1" max="5"/>
+<media:statistics views="900"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:1S4kD0NjRbI</id>
+<yt:videoId>1S4kD0NjRbI</yt:videoId>
+<yt:channelId>UChcs-z9Z8GHf8ClmHvHX-3A</yt:channelId>
+<title>User Management, Access, Permissions in Joomla</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=1S4kD0NjRbI"/>
+<author>
+<name>Kevin's Guides</name>
+<uri>https://www.youtube.com/channel/UChcs-z9Z8GHf8ClmHvHX-3A</uri>
+</author>
+<published>2023-06-14T22:25:45+00:00</published>
+<updated>2024-03-11T21:23:06+00:00</updated>
+<media:group>
+<media:title>User Management, Access, Permissions in Joomla</media:title>
+<media:content url="https://www.youtube.com/v/1S4kD0NjRbI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/1S4kD0NjRbI/hqdefault.jpg" width="480" height="360"/>
+<media:description>Learn how to manage users, enable user registration, manage permissions, and more in Joomla 4/5. Part of my Intro to Joomla Series: https://kevinsguides.com/guides/webdev/joomla/joom-intro/ch7-users</media:description>
+<media:community>
+<media:starRating count="25" average="5.00" min="1" max="5"/>
+<media:statistics views="1117"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:qu2hi0tM45Y</id>
+<yt:videoId>qu2hi0tM45Y</yt:videoId>
+<yt:channelId>UChcs-z9Z8GHf8ClmHvHX-3A</yt:channelId>
+<title>Simple Pong in Java (Part 2 With Better AI)</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=qu2hi0tM45Y"/>
+<author>
+<name>Kevin's Guides</name>
+<uri>https://www.youtube.com/channel/UChcs-z9Z8GHf8ClmHvHX-3A</uri>
+</author>
+<published>2023-04-18T22:57:05+00:00</published>
+<updated>2024-03-22T07:13:55+00:00</updated>
+<media:group>
+<media:title>Simple Pong in Java (Part 2 With Better AI)</media:title>
+<media:content url="https://www.youtube.com/v/qu2hi0tM45Y?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/qu2hi0tM45Y/hqdefault.jpg" width="480" height="360"/>
+<media:description>Part 2 of the Pong project made in Java. In this video, we add smarter AI to the program and fix a few minor issues.</media:description>
+<media:community>
+<media:starRating count="1" average="5.00" min="1" max="5"/>
+<media:statistics views="67"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:VFIco5klIE8</id>
+<yt:videoId>VFIco5klIE8</yt:videoId>
+<yt:channelId>UChcs-z9Z8GHf8ClmHvHX-3A</yt:channelId>
+<title>Coding Basic 2D Pong in Java</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=VFIco5klIE8"/>
+<author>
+<name>Kevin's Guides</name>
+<uri>https://www.youtube.com/channel/UChcs-z9Z8GHf8ClmHvHX-3A</uri>
+</author>
+<published>2023-04-15T18:38:11+00:00</published>
+<updated>2024-03-14T03:51:58+00:00</updated>
+<media:group>
+<media:title>Coding Basic 2D Pong in Java</media:title>
+<media:content url="https://www.youtube.com/v/VFIco5klIE8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i3.ytimg.com/vi/VFIco5klIE8/hqdefault.jpg" width="480" height="360"/>
+<media:description>Review OOP concepts, GUIs, Swing, and AWT with this basic step-by-step tutorial on creating a basic game of Pong in Java. Written guide & source code: https://kevinsguides.com/guides/code/java/javaprojs/simple-2d-pong</media:description>
+<media:community>
+<media:starRating count="11" average="5.00" min="1" max="5"/>
+<media:statistics views="625"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:vFSp_nQGHjk</id>
+<yt:videoId>vFSp_nQGHjk</yt:videoId>
+<yt:channelId>UChcs-z9Z8GHf8ClmHvHX-3A</yt:channelId>
+<title>Developing a Joomla 4 Template: Part 4 - Rebrand & Packaging</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=vFSp_nQGHjk"/>
+<author>
+<name>Kevin's Guides</name>
+<uri>https://www.youtube.com/channel/UChcs-z9Z8GHf8ClmHvHX-3A</uri>
+</author>
+<published>2023-04-11T22:41:22+00:00</published>
+<updated>2024-03-15T02:56:57+00:00</updated>
+<media:group>
+<media:title>Developing a Joomla 4 Template: Part 4 - Rebrand & Packaging</media:title>
+<media:content url="https://www.youtube.com/v/vFSp_nQGHjk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i3.ytimg.com/vi/vFSp_nQGHjk/hqdefault.jpg" width="480" height="360"/>
+<media:description>In this video, you will learn how to update your template and package its files together into an installable zip file. Written Guide: https://kevinsguides.com/guides/webdev/joomla4/joomla-4-templates/develop-j4-template</media:description>
+<media:community>
+<media:starRating count="19" average="5.00" min="1" max="5"/>
+<media:statistics views="758"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:BamWSKBHLv4</id>
+<yt:videoId>BamWSKBHLv4</yt:videoId>
+<yt:channelId>UChcs-z9Z8GHf8ClmHvHX-3A</yt:channelId>
+<title>Developing a Joomla 4 Template (3/4 part b)</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=BamWSKBHLv4"/>
+<author>
+<name>Kevin's Guides</name>
+<uri>https://www.youtube.com/channel/UChcs-z9Z8GHf8ClmHvHX-3A</uri>
+</author>
+<published>2023-04-11T21:32:58+00:00</published>
+<updated>2024-03-13T08:38:48+00:00</updated>
+<media:group>
+<media:title>Developing a Joomla 4 Template (3/4 part b)</media:title>
+<media:content url="https://www.youtube.com/v/BamWSKBHLv4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i3.ytimg.com/vi/BamWSKBHLv4/hqdefault.jpg" width="480" height="360"/>
+<media:description>Reviews additional optional features I can add to the template, including a few minor fixes from the last video, style changes, and favicons.</media:description>
+<media:community>
+<media:starRating count="16" average="5.00" min="1" max="5"/>
+<media:statistics views="788"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:MvZu-LVBxZM</id>
+<yt:videoId>MvZu-LVBxZM</yt:videoId>
+<yt:channelId>UChcs-z9Z8GHf8ClmHvHX-3A</yt:channelId>
+<title>Developing a Joomla 4 Template: Layout & Style (3/4 Main Video)</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=MvZu-LVBxZM"/>
+<author>
+<name>Kevin's Guides</name>
+<uri>https://www.youtube.com/channel/UChcs-z9Z8GHf8ClmHvHX-3A</uri>
+</author>
+<published>2023-04-10T01:05:04+00:00</published>
+<updated>2024-03-13T21:21:29+00:00</updated>
+<media:group>
+<media:title>Developing a Joomla 4 Template: Layout & Style (3/4 Main Video)</media:title>
+<media:content url="https://www.youtube.com/v/MvZu-LVBxZM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/MvZu-LVBxZM/hqdefault.jpg" width="480" height="360"/>
+<media:description>In this video, I review key aspects of the code involved with creating Joomla 4 templates. We will take a basic UI/prototype design and turn it into code. You will learn how to use Bootstrap 5 to create a layout, insert modules and components, and add style to your template. Links: Written Guide: https://kevinsguides.com/guides/webdev/joomla4/joomla-4-templates/develop-j4-template Bootstrap Docs: https://getbootstrap.com/docs/5.1/getting-started/introduction/ j4starter template: https://github.com/kevinsguides/j4starter/releases Tip jar: https://kevinsguides.com/tips</media:description>
+<media:community>
+<media:starRating count="48" average="5.00" min="1" max="5"/>
+<media:statistics views="3326"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:MC9ROOX3iOU</id>
+<yt:videoId>MC9ROOX3iOU</yt:videoId>
+<yt:channelId>UChcs-z9Z8GHf8ClmHvHX-3A</yt:channelId>
+<title>Developing a Joomla 4 Template: Project Structure (2/4)</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=MC9ROOX3iOU"/>
+<author>
+<name>Kevin's Guides</name>
+<uri>https://www.youtube.com/channel/UChcs-z9Z8GHf8ClmHvHX-3A</uri>
+</author>
+<published>2023-04-09T05:08:56+00:00</published>
+<updated>2024-03-13T16:23:26+00:00</updated>
+<media:group>
+<media:title>Developing a Joomla 4 Template: Project Structure (2/4)</media:title>
+<media:content url="https://www.youtube.com/v/MC9ROOX3iOU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/MC9ROOX3iOU/hqdefault.jpg" width="480" height="360"/>
+<media:description>In this video, we'll examine the basic structure of the files packaged with a standard Joomla 4 template. Written Guide: https://kevinsguides.com/guides/webdev/joomla4/joomla-4-templates/develop-j4-template Tip Jar: https://kevinsguides.com/tips</media:description>
+<media:community>
+<media:starRating count="49" average="5.00" min="1" max="5"/>
+<media:statistics views="2279"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:GYtoAd_aj8E</id>
+<yt:videoId>GYtoAd_aj8E</yt:videoId>
+<yt:channelId>UChcs-z9Z8GHf8ClmHvHX-3A</yt:channelId>
+<title>Developing a Joomla 4 Template: Start Here (1/4)</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=GYtoAd_aj8E"/>
+<author>
+<name>Kevin's Guides</name>
+<uri>https://www.youtube.com/channel/UChcs-z9Z8GHf8ClmHvHX-3A</uri>
+</author>
+<published>2023-04-09T04:51:57+00:00</published>
+<updated>2024-03-14T04:51:33+00:00</updated>
+<media:group>
+<media:title>Developing a Joomla 4 Template: Start Here (1/4)</media:title>
+<media:content url="https://www.youtube.com/v/GYtoAd_aj8E?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i4.ytimg.com/vi/GYtoAd_aj8E/hqdefault.jpg" width="480" height="360"/>
+<media:description>The first in a four-part beginner series on developing site templates for Joomla 4. In this video, we will discuss the software and skills you'll need to get started. Knowledge of HTML and CSS required. Software Links: NodeJS: https://nodejs.org j4starter template: https://github.com/kevinsguides/j4starter/releases Guide Links: Setup Test Environment... https://kevinsguides.com/guides/webdev/joomla4/j4intro/c02-setup Developing J4 Template... https://kevinsguides.com/guides/webdev/joomla4/joomla-4-templates/develop-j4-template</media:description>
+<media:community>
+<media:starRating count="129" average="5.00" min="1" max="5"/>
+<media:statistics views="8336"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:cjUAmT3sJ0o</id>
+<yt:videoId>cjUAmT3sJ0o</yt:videoId>
+<yt:channelId>UChcs-z9Z8GHf8ClmHvHX-3A</yt:channelId>
+<title>Menus, Links, & Navigation in Joomla 4 (Intro to Joomla Chapter 6)</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=cjUAmT3sJ0o"/>
+<author>
+<name>Kevin's Guides</name>
+<uri>https://www.youtube.com/channel/UChcs-z9Z8GHf8ClmHvHX-3A</uri>
+</author>
+<published>2022-07-21T06:11:41+00:00</published>
+<updated>2024-03-15T16:44:59+00:00</updated>
+<media:group>
+<media:title>Menus, Links, & Navigation in Joomla 4 (Intro to Joomla Chapter 6)</media:title>
+<media:content url="https://www.youtube.com/v/cjUAmT3sJ0o?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i4.ytimg.com/vi/cjUAmT3sJ0o/hqdefault.jpg" width="480" height="360"/>
+<media:description>How to create and use menus in Joomla 4 to organize your website's pages. Written guide available at: https://kevinsguides.com/guides/webdev/joomla4/j4intro/ch6-nav</media:description>
+<media:community>
+<media:starRating count="70" average="5.00" min="1" max="5"/>
+<media:statistics views="7439"/>
+</media:community>
+</media:group>
+</entry>
+</feed>

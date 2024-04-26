@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management - Version 5.0.3" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Actualités</title>
+		<description><![CDATA[]]></description>
+		<link>https://www.joomla.fr/joomla/actualites-joomla.html</link>
+		<lastBuildDate>Tue, 26 Mar 2024 14:44:07 +0100</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management - Version 5.0.3</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.joomla.fr/joomla/actualites-joomla.feed?type=rss"/>
+		<language>fr-fr</language>
+		<item>
+			<title>Joomla est heureux d'annoncer la disponibilité de Joomla 5.1 bêta 2 pour test</title>
+			<link>https://www.joomla.fr/joomla/actualites-joomla/joomla-est-heureux-dannoncer-la-disponibilite-de-joomla-5-1-beta-2-pour-test.html</link>
+			<guid isPermaLink="true">https://www.joomla.fr/joomla/actualites-joomla/joomla-est-heureux-dannoncer-la-disponibilite-de-joomla-5-1-beta-2-pour-test.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.fr//images/actualites/Joomla-5.1-beta2.jpg" alt="Joomla 5.1 bêta 2" width="1200" height="630" loading="lazy"></p><p>Les versions bêta ont deux objectifs principaux :</p>
+<ul>
+<li><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 1rem;">Fournir aux développeurs la base pour tester leurs extensions et signaler tout problème bien avant la version finale</span></li>
+<li>Permettre aux utilisateurs de découvrir les nouvelles fonctionnalités introduites dans Joomla 5.1.]]></description>
+			<category>Actualités</category>
+			<pubDate>Wed, 20 Mar 2024 14:08:33 +0100</pubDate>
+		</item>
+		<item>
+			<title>Sortie de Joomla ! 5.1.0-Beta 1</title>
+			<link>https://www.joomla.fr/joomla/actualites-joomla/sortie-de-joomla-5-1-0-beta-1.html</link>
+			<guid isPermaLink="true">https://www.joomla.fr/joomla/actualites-joomla/sortie-de-joomla-5-1-0-beta-1.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.fr//images/actualites/2024/Joomla-5.1-BETA1Blog.png" alt="Joomla 5.1 beta" width="869" height="400" loading="lazy"></p><p>Le projet Joomla a le plaisir d'annoncer la disponibilité de <a href="https://github.com/joomla/joomla-cms/releases/tag/5.1.0-beta1">Joomla 5.1 beta1</a> à des fins de test.</p>
+]]></description>
+			<category>Actualités</category>
+			<pubDate>Tue, 05 Mar 2024 19:07:47 +0100</pubDate>
+		</item>
+		<item>
+			<title>Joomla remporte les CMS Critics Awards 2023</title>
+			<link>https://www.joomla.fr/joomla/actualites-joomla/joomla-remporte-les-cms-critics-awards-2023.html</link>
+			<guid isPermaLink="true">https://www.joomla.fr/joomla/actualites-joomla/joomla-remporte-les-cms-critics-awards-2023.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.fr//images/actualites/win2023.jpg" alt="" width="890" height="418" loading="lazy"></p><p>Joomla a remporté deux fois le prix CMS Critics Awards - People's Choice Awards 2023. Depuis 2012, les CMS Critic Awards récompensent les réalisations exceptionnelles de la communauté des CMS, honorant les développeurs pour leurs innovations et leurs services.</p>
+]]></description>
+			<category>Actualités</category>
+			<pubDate>Sun, 03 Mar 2024 15:11:31 +0100</pubDate>
+		</item>
+		<item>
+			<title>Joomla 5.0.3 et 4.4.3 - Sécurité et corrections de bugs</title>
+			<link>https://www.joomla.fr/joomla/actualites-joomla/joomla-5-0-3-et-4-4-3-securite-et-corrections-de-bugs.html</link>
+			<guid isPermaLink="true">https://www.joomla.fr/joomla/actualites-joomla/joomla-5-0-3-et-4-4-3-securite-et-corrections-de-bugs.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.fr//images/actualites/j503.jpg" alt="Joomla 5.0.3" width="890" height="418" loading="lazy"></p><p>Le projet Joomla! est heureux d'annoncer la sortie de Joomla 5.0.3 et 4.4.3. Il s'agit d'une version de correction de sécurité et de bugs pour les séries 5.x et 4.x de Joomla.</p>
+]]></description>
+			<category>Actualités</category>
+			<pubDate>Wed, 21 Feb 2024 07:43:40 +0100</pubDate>
+		</item>
+		<item>
+			<title>Joomla! s'unit dans l'Open Website Alliance</title>
+			<link>https://www.joomla.fr/joomla/actualites-joomla/joomla-sunit-dans-lopen-website-alliance.html</link>
+			<guid isPermaLink="true">https://www.joomla.fr/joomla/actualites-joomla/joomla-sunit-dans-lopen-website-alliance.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.fr//images/actualites/Open-Website-Alliance-Blog-Image.jpg" alt="Open Website Alliance" width="869" height="400" loading="lazy"></p><p><br>Dans une démarche sans précédent, Joomla, aux côtés d'autres principaux systèmes de gestion de contenu open source tels que Drupal, TYPO3 et WordPress, a fièrement co-fondé l'<strong>Open Website Alliance</strong>.</p>
+]]></description>
+			<category>Actualités</category>
+			<pubDate>Tue, 13 Feb 2024 19:39:32 +0100</pubDate>
+		</item>
+		<item>
+			<title>Votez dès Aujourd'hui pour Joomla! aux CMS Critic Awards</title>
+			<link>https://www.joomla.fr/joomla/actualites-joomla/votez-pour-joomla-aux-cms-critic-awards.html</link>
+			<guid isPermaLink="true">https://www.joomla.fr/joomla/actualites-joomla/votez-pour-joomla-aux-cms-critic-awards.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.fr//images/actualites/2024/cms-vote.jpg" alt="" width="1200" height="630" loading="lazy"></p><p>Depuis sa création en 2012, Joomla! a été régulièrement récompensé lors des <strong>CMS Critic Awards</strong>, se démarquant dans diverses catégories. Cette année ne fait pas exception, et nous avons besoin de votre soutien pour maintenir cette tradition de succès.</p>
+]]></description>
+			<category>Actualités</category>
+			<pubDate>Fri, 09 Feb 2024 19:48:27 +0100</pubDate>
+		</item>
+		<item>
+			<title>Joomla! est heureux d'annoncer la sortie de Joomla 5.0.2 et 4.4.2.</title>
+			<link>https://www.joomla.fr/joomla/actualites-joomla/joomla-est-heureux-dannoncer-la-sortie-de-joomla-5-0-2-et-4-4-2.html</link>
+			<guid isPermaLink="true">https://www.joomla.fr/joomla/actualites-joomla/joomla-est-heureux-dannoncer-la-sortie-de-joomla-5-0-2-et-4-4-2.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.fr//images/actualites/J5.0.2.jpg" alt="affiche de la sortie de Joomla 5.0.2" width="1200" height="630" loading="lazy"></p><p> Il s'agit d'une version de correction de bugs pour les séries 5.x et 4.x de Joomla.</p>
+]]></description>
+			<category>Actualités</category>
+			<pubDate>Tue, 09 Jan 2024 15:25:52 +0100</pubDate>
+		</item>
+		<item>
+			<title>Joomla! est heureux d'annoncer la sortie de Joomla 5.0.1 et 4.4.1</title>
+			<link>https://www.joomla.fr/joomla/actualites-joomla/joomla-est-heureux-dannoncer-la-sortie-de-joomla-5-0-1-et-4-4-1.html</link>
+			<guid isPermaLink="true">https://www.joomla.fr/joomla/actualites-joomla/joomla-est-heureux-dannoncer-la-sortie-de-joomla-5-0-1-et-4-4-1.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.fr//images/actualites/J5.0.1.jpg" alt="Joomla! Project est heureux d&#039;annoncer la sortie de Joomla 5.0.1 et 4.4.1" width="1200" height="630" loading="lazy"></p><p dir="ltr">Le site Joomla! Project est heureux d'annoncer la sortie de Joomla 5.0.1 et 4.4.1. Il s'agit d'une version de sécurité et de correction de bogues pour les séries 5.x et 4.x de Joomla.</p>
+]]></description>
+			<category>Actualités</category>
+			<pubDate>Tue, 28 Nov 2023 15:23:16 +0100</pubDate>
+		</item>
+		<item>
+			<title>Joomla! 5 - Aujourd'hui est un jour important pour Joomla!</title>
+			<link>https://www.joomla.fr/joomla/actualites-joomla/joomla-5-aujourdhui-est-un-jour-important-pour-joomla.html</link>
+			<guid isPermaLink="true">https://www.joomla.fr/joomla/actualites-joomla/joomla-5-aujourdhui-est-un-jour-important-pour-joomla.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.fr//images/actualites/Joomla-5-1200x600.jpg" alt="" width="1120" height="630" loading="lazy"></p><p>Nous célébrons deux années de travail acharné de la part de nos bénévoles.</p>
+]]></description>
+			<category>Actualités</category>
+			<pubDate>Tue, 17 Oct 2023 11:51:14 +0200</pubDate>
+		</item>
+		<item>
+			<title>Quoi de neuf dans Joomla 5 ?</title>
+			<link>https://www.joomla.fr/joomla/actualites-joomla/quoi-de-neuf-dans-joomla-5.html</link>
+			<guid isPermaLink="true">https://www.joomla.fr/joomla/actualites-joomla/quoi-de-neuf-dans-joomla-5.html</guid>
+			<description><![CDATA[<p><img src="https://www.joomla.fr//images/actualites/joomla5-0.jpg" alt="" width="483" height="272" loading="lazy"></p><p>Je vous entends penser : "Mais j'ai à peine migré mon site vers Joomla 4, dois-je recommencer à zéro ?" Cet article répondra à cette question.</p>
+]]></description>
+			<category>Actualités</category>
+			<pubDate>Tue, 26 Sep 2023 02:27:43 +0200</pubDate>
+		</item>
+	</channel>
+</rss>
